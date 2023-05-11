@@ -1,0 +1,16 @@
+{
+  "name": "nodefiles",
+  "version": "10.15.0",
+  "description": "About me web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GilParga1991/Node-Personal.git"
+  },
+  "author": "Brandon Parga",
+  "license": "ISC",
+  "homepage": "https://github.com/GilParga1991/Node-Personal.git#readme"
+}
